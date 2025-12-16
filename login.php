@@ -199,14 +199,7 @@ if ($_SERVER['REQUEST_METHOD']==='POST') {
                 <button type="submit" class="btn-login">Sign In</button>
             </form>
             
-            <div class="login-footer">
-                <a href="/bbms/README.md">Need help?</a>
-                <div class="credentials-box">
-                    <p><strong>Demo Account</strong></p>
-                    <p>Username: <code>admin</code></p>
-                    <p>Password: <code>admin123</code></p>
-                </div>
-            </div>
+            
         </div>
     </div>
 </div>
